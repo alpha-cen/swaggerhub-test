@@ -25,7 +25,7 @@ import java.io.IOException;
  * Category
  */
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2022-03-07T22:28:20.216Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2022-03-07T22:28:30.916Z[GMT]")
 public class Category {
   @SerializedName("id")
   private Long id = null;
